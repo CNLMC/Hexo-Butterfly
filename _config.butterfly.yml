@@ -1037,7 +1037,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    - <div class="aplayer no-destroy" data-id="13556008031" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
+    - <div class="aplayer no-destroy" data-id="13556574207" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
     # - <script src="xxxx"></script>
 
 # CDN Settings
