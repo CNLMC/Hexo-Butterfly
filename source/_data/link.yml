@@ -1,0 +1,20 @@
+- class_name: 友情链接
+  class_desc: 我的好兄弟小杨
+  link_list:
+    - name: 小杨的树洞
+      link: https://imjianhao.cn/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/小杨头像.jpg
+      descr: 哈哈！这可是我老铁的博客！
+    - name: 小杨的另一个树洞
+      link: https://blog68.imjianhao.cn/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/小杨头像2.jpg
+      descr: 同样是我老铁的博客，界面更新潮！
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/butterfly.jpg
+      descr: ‌Hexo博客框架的主题，非常漂亮
+      name:
