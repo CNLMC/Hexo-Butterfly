@@ -967,14 +967,14 @@ note:
 
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   # Exclude the specified pages from pjax, such as '/music/'
   exclude:
     # - /xxxxxx/
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar - Toast Notification
@@ -1037,6 +1037,8 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
+    
+
     # - <script src="xxxx"></script>
 
 # CDN Settings
@@ -1112,3 +1114,4 @@ CDN:
     # valine:
     # waline_css:
     # waline_js:
+
