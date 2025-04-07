@@ -15,6 +15,25 @@
   link_list:
     - name: Butterfly
       link: https://butterfly.js.org/
-      avatar: https://img.cnlmc.ip-ddns.com/PicGo/butterfly.jpg
-      descr: ‌Hexo博客框架的主题，非常漂亮
-      name:
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/Butterfly.jpg
+      descr: ‌Hexo博客框架的主题，非常漂亮！
+    - name: Fomalhaut🥝
+      link: https://www.fomal.cc/
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/Fomalhaut.jpg
+      descr: 魔改‌Hexo博客主题Butterfly，还有很多其他技术分享！
+
+- class_name: B站UP主
+  class_desc: 值得推荐的B站UP主
+  link_list:
+    - name: 技术爬爬虾
+      link: https://space.bilibili.com/316183842
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/技术爬爬虾.jpg
+      descr: 分享好玩实用的软件DIY
+    - name: epcdiy
+      link: https://space.bilibili.com/12590
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/epcdiy.jpg
+      descr: 发布了很多有趣的技术科普
+    - name: 红警HBK08
+      link: https://space.bilibili.com/1629347259
+      avatar: https://img.cnlmc.ip-ddns.com/PicGo/红警HBK08.jpg
+      descr: 无聊时可以看看红警解解闷

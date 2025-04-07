@@ -69,7 +69,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: 
+default_top_img: https://img.cnlmc.ip-ddns.com/PicGo/南京玄武湖去水印.jpg
 
 # The banner image of index page
 index_img: https://img.cnlmc.ip-ddns.com/PicGo/南京玄武湖去水印.jpg
@@ -265,7 +265,7 @@ footer:
   owner:
     enable: true
     since: 2025
-  custom_text: <a target="_blank" href=" http://www.freecdn.vip/?zzwz " title="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）" alt="免费云加速（FreeCDN），为您免费提供网站加速和网站防御（DDOS、CC攻击）">本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务</a>
+  custom_text: 
   # Copyright of theme and framework
   copyright: true
 
