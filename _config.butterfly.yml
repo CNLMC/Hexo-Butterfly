@@ -265,7 +265,7 @@ footer:
   owner:
     enable: true
     since: 2025
-  custom_text: 
+  custom_text: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由<img width="" height="20" src="https://img.cnlmc.ip-ddns.com/PicGo/又拍云_logo2.png">提供CDN加速/云存储服务</a>
   # Copyright of theme and framework
   copyright: true
 
